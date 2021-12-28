@@ -24,4 +24,3 @@
 <img alt="LinkedIn" width="50px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 <img alt="Facebook" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
 <br />
-Link do repozytorium: https://github.com/MarcinZ20/steerable-nafx
