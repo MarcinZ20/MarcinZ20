@@ -23,6 +23,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcinZ20)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📧 Contact me!
-<img alt="LinkedIn" width="50px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+[<img alt="LinkedIn" width="50px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/marcin-zub-615500237?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2F6VeYqaPSbSqdLe0So4Xwg%3D%3D)
 <img alt="Facebook" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
 <br />
