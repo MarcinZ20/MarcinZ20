@@ -10,8 +10,7 @@
 - I'm 22 💪🏼
 - I study IT at AGH 🎓 
 - I'm interested in Stock market 💱
-- My favourite emoji is this->😂 
-- Did you get the joke from the line above? 😂
+- I'm a huge fun and proud user of Notion 📔
 
 <br/>
 
