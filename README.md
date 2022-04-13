@@ -2,14 +2,14 @@
 <br />
 
 #### ℹ️ Here is some basic info about me: 
-- I'm 21 years young 💪🏼
-- I'm currently living in Cracow 🏠
+- I'm 22 💪🏼
+- I live in Cracow 🏠
 - I study IT at AGH 🎓
 - I'm interested in Stock market 💱
-- I've played professional volleyball for two years 🏐
+- I've played professional volleyball in the past 🏐
 <br />
 
-#### ⚙️ Languages and Tools:
+#### ⚙️ Languages and Tools I use:
 <img alt="Python" width="50px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img alt="Jupyter" width="50px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img alt="Numpy" width="50px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
@@ -19,6 +19,8 @@
 <img alt="Git" width="50px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img alt="vscode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcinZ20)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 📧 Contact me!
 <img alt="LinkedIn" width="50px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
