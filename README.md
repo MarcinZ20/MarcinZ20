@@ -7,19 +7,21 @@
 [![Marcin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcinZ20)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Here is some basic info about me: 
-- I'm 22 💪🏼
+- I'm 23 💪🏼
 - I study IT at AGH 🎓 
 - I'm interested in Stock market 💱
-- I'm a huge fun and proud user of Notion 📔
+- I play guitar and piano 🎵
 
 <br/>
 
 #### ⚙️ Languages and Tools I use:
 <img alt="Python" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="PostgreSQL" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img alt="C" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img alt="Anaconda" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+<img alt="Pandas" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 <img alt="Jupyter" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img alt="Numpy" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img alt="Pandas" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<img alt="C" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img alt="bash" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img alt="Git" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
