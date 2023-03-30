@@ -35,8 +35,8 @@
 ---
 
 
-<div id="stats" align="center" markdown=1>
+<!-- <div id="stats" align="center" markdown=1>
   <h3>My stats: </h3>
   <img src="https://github-readme-stats.vercel.app/api?username=MarcinZ20">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinZ20">
-</div>
+</div> -->
