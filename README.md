@@ -20,7 +20,7 @@
 
 
 <div id="about-me" align="center" markdown=1>
-  <p>👨🏻‍🎓 I study Informatics and Inteligent Systems at AGH UST</p>
+  <p>👨🏻‍🎓 I study Computer Science at AGH UST</p>
 
   <p>🧠 I'm currently learning Tensorflow and Power Bi</p>
 
