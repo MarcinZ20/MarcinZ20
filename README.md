@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm a software developer from Cracow.<br><br>- 🔭 I’m working as a freelance Software Engineer<br>- 📚 I'm currently doing my master's in Computer Science</p>
+<p align="left">I'm a AI/ML developer based in Cracow.<br><br>- 🔭 I’m working as a freelance Software Engineer<br>- 📚 I'm currently doing my master's in Computer Science</p>
 
 ###
 
@@ -50,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="43" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://devicons.railway.com/i/n8n.svg" width="43" alt="n8n logo" />
 </div>
 
 ###
